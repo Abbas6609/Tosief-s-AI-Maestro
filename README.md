@@ -1,4 +1,4 @@
-## **🚀 I'm happy to share my latest project: Tosief's AI Maestro 🤖✨ **
+## **🚀 I'm happy to share my latest project: Tosief's AI Maestro 🤖✨**
 
 **An innovative application built to enhance interactions with AI through chat, visualization, speech, and transcription functionalities.**
 
